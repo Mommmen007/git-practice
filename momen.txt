@@ -1,0 +1,8 @@
+sjbahdsuabd
+PS C:\Users\Momen\Pictures\Git-lab\git-practice> rmdir /s /q git-practice
+Remove-Item : A positional parameter cannot be found that accepts argument '/q'.
+At line:1 char:1
++ rmdir /s /q git-practice
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Remove-Item], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Microsoft.PowerShell.Commands.RemoveItemCommand
